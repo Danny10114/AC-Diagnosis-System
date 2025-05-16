@@ -25,13 +25,13 @@
    - 急性膽囊炎機率預測與可視化（AC_Model）
 3. 輸出包含分割結果與高風險影像的報告。
 
-📦 範例展示影片：`example.mp4`
+ 範例展示影片：`example.mp4`
 
 ---
 
 ## 🧪 軟體與環境版本
 
-> ✅ 本系統可於 Windows 系統中運行，建議使用 Anaconda 環境進行管理。
+
 
 | 套件 | 版本 |
 |------|------|
@@ -39,18 +39,3 @@
 | TensorFlow (GPU) | 2.0.0 |
 | NumPy | 1.21.6 |
 | OpenCV | 4.6.0 |
-
----
-
-## 🧠 使用說明（快速上手）
-
-```bash
-# 建議使用 conda 建立新環境
-conda create -n ac-detection python=3.7
-conda activate ac-detection
-
-# 安裝必要套件
-pip install tensorflow-gpu==2.0.0 numpy==1.21.6 opencv-python==4.6.0
-
-# 使用 Jupyter Notebook 開啟主執行檔
-jupyter notebook windows.ipynb
