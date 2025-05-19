@@ -72,7 +72,7 @@
 
    <div align="center">
 
-   ![質心分布圖](ReadMEImg/質心分布圖.png)
+   ![質心分布圖](ReadMEImg/質心分布.png)
 
    </div>
 
