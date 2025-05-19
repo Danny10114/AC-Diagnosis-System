@@ -34,7 +34,7 @@
 
 <div align="center">
 
-| ![分割錯誤範例1](ReadMEImg/example01.jpg) | ![分割錯誤範例2](ReadMEImg/example02.jpg) |
+| ![分割錯誤範例1](ReadMEImg/example01.png) | ![分割錯誤範例2](ReadMEImg/example02.png) |
 
 </div>
 
@@ -87,7 +87,7 @@
 
    <div align="center">
 
-   | ![過濾結果1](ReadMEImg/example03.jpg) | ![過濾結果2](ReadMEImg/example04.jpg) |
+   | ![過濾結果1](ReadMEImg/example03.png) | ![過濾結果2](ReadMEImg/example04.png) |
 
    </div>
 
