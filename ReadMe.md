@@ -34,7 +34,7 @@
 
 <div align="center">
 
-| ![分割錯誤範例1](ReadMEImg/example1.jpg) | ![分割錯誤範例2](ReadMEImg/example2.jpg) |
+| ![分割錯誤範例1](ReadMEImg/example01.jpg) | ![分割錯誤範例2](ReadMEImg/example02.jpg) |
 
 </div>
 
@@ -50,7 +50,7 @@
 
    <div align="center">
 
-   ![影像處理示意圖](ReadMEImg/GIf.gif)
+   ![影像處理示意圖](ReadMEImg/GIF.gif)
 
    </div>
 
@@ -87,7 +87,7 @@
 
    <div align="center">
 
-   | ![過濾結果1](ReadMEImg/example3.jpg) | ![過濾結果2](ReadMEImg/example4.jpg) |
+   | ![過濾結果1](ReadMEImg/example03.jpg) | ![過濾結果2](ReadMEImg/example04.jpg) |
 
    </div>
 
